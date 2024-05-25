@@ -52,12 +52,6 @@ To stop the services, run:
 docker-compose down
 ```
 
-### For permission issues 
-
-```bash
-sudo chmod -R a+w wp-boilerplate/
-```
-
 ## Additional Resources
 
 For a video walkthrough of this setup, you can refer to the following video: [YouTube Video](https://www.youtube.com/watch?v=gEceSAJI_3s).
